@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 64" fill="none">
+  <defs>
+    <linearGradient id="gradLogo" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="50%" stop-color="#0EA5E9" />
+      <stop offset="100%" stop-color="#2563EB" />
+    </linearGradient>
+    <linearGradient id="subtleGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#60A5FA" stop-opacity="0.8"/>
+    </linearGradient>
+  </defs>
+  <!-- Monogram Symbol -->
+  <rect x="2" y="10" width="44" height="44" rx="12" fill="#0B132B" stroke="#1E293B" stroke-width="1.5"/>
+  <rect x="2" y="10" width="44" height="44" rx="12" fill="url(#subtleGlow)" fill-opacity="0.08"/>
+  <!-- Modern Tech M & Code Brack / Connection Shape -->
+  <path d="M14 40V24L24 33L34 24V40" stroke="url(#gradLogo)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="24" cy="33" r="2" fill="#38BDF8" />
+  <!-- Brand Text -->
+  <text x="58" y="31" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="16" font-weight="800" letter-spacing="1.5" fill="#F8FAFC">MAXWELL RODRIGUES</text>
+  <text x="58" y="47" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="9" font-weight="600" letter-spacing="2" fill="#38BDF8">SOFTWARE DEV • SYSTEMS ANALYST</text>
+</svg>
