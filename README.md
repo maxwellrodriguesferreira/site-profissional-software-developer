@@ -40,8 +40,7 @@ site-profissional-software-developer/
 │   └── images/
 │       ├── favicon.svg          # Ícone do site para navegadores
 │       ├── logo.svg             # Logotipo do desenvolvedor
-│       ├── foto-perfil.jpg      # Foto de perfil profissional do desenvolvedor
-│       └── foto-perfil.svg      # Avatar ilustrado (fallback)
+│       └── foto-perfil.jpg      # Foto de perfil profissional do desenvolvedor
 ├── css/
 │   └── style.css                # Estilos personalizados, animações e efeitos
 ├── js/
